@@ -1,6 +1,6 @@
 # HmSharedOutputPane
 
-![HmSharedOutputPane v1.2.0](https://img.shields.io/badge/HmSharedOutputPane-v1.2.0-6479ff.svg)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/komiyamma/hm_sharedoutputpane?label=HmSharedOutputPane&color=6479ff)](https://github.com/komiyamma/hm_sharedoutputpane/releases)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 ![Hidemaru 8.01](https://img.shields.io/badge/Hidemaru-v8.01-6479ff.svg)
 
